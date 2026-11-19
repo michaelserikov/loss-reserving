@@ -70,6 +70,10 @@ python scripts/run_backtest.py 1000      # about 3 minutes on 6 cores
 python scripts/analyse_backtest.py
 ```
 
+### SAS
+
+`sas/chain_ladder_mack.sas` ports the chain ladder and Mack's standard error to Base SAS (DATA step arrays) and was run in SAS OnDemand for Academics on the Taylor and Ashe triangle: reserve 18,680,856, Mack standard error 2,447,095 in total and 75,535 to 1,363,155 by accident year, equal to the Python results and the published values. Only this calculation is ported, not the bootstrap or the backtest.
+
 ## Data
 
 [CAS Loss Reserving Database](https://www.casact.org/publications-research/research/research-resources/loss-reserving-data-pulled-naic-schedule-p) (NAIC Schedule P, 1997 data), files `ppauto_pos.csv`, `comauto_pos.csv`, `wkcomp_pos.csv`, `othliab_pos.csv` in `data/raw/`; the files are not committed. Taylor and Ashe (1983), "Second moments of estimates of outstanding claims", Journal of Econometrics 23; Mack (1993), ASTIN Bulletin 23; England and Verrall (1999), Insurance: Mathematics and Economics 25.
