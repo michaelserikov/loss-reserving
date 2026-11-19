@@ -1,0 +1,7 @@
+scope,line,triangles,sigma_reserve,capital_995_pct_of_reserve,median_mack_cv,median_bootstrap_cv,median_bootstrap_995_pct_above_reserve,actual_above_standard_formula_995,share_with_bootstrap_cv_above_sigma
+all triangles,comauto,60,0.09,25.52,0.2291,0.2243,66.36,0.1833,0.9333
+all triangles,othliab,52,0.11,31.85,0.3337,0.3461,119.5,0.1538,0.9615
+all triangles,ppauto,70,0.09,25.52,0.1126,0.1165,31.38,0.05714,0.6857
+larger half by premium,comauto,30,0.09,25.52,0.1427,0.1449,41.05,0.1333,0.8667
+larger half by premium,othliab,26,0.11,31.85,0.2392,0.2598,87.04,0.03846,0.9231
+larger half by premium,ppauto,35,0.09,25.52,0.0825,0.07912,22.26,0,0.4286

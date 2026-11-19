@@ -1,0 +1,17 @@
+line,method,triangles,median_error_pct_of_premium,mean_error_pct_of_premium,rmse_pct_of_premium,share_underestimated,median_ultimate_ratio
+comauto,"Chain ladder, paid",60,0.9587,0.5026,5.45,0.4,1.014
+comauto,"Chain ladder, incurred",60,0.2916,-0.3567,4.815,0.45,1.004
+comauto,"Bornhuetter-Ferguson, paid",60,-0.3264,-1.116,6.439,0.5333,0.9947
+comauto,"Cape Cod, paid",60,0.1206,-0.186,4.97,0.4667,1.002
+othliab,"Chain ladder, paid",52,0.64,1.904,6.382,0.4038,1.015
+othliab,"Chain ladder, incurred",52,2.078,3.626,9.437,0.3269,1.048
+othliab,"Bornhuetter-Ferguson, paid",52,0.5414,0.9602,6.969,0.4808,1.013
+othliab,"Cape Cod, paid",52,1.256,1.731,5.59,0.3462,1.02
+ppauto,"Chain ladder, paid",70,1.16,1.62,3.74,0.2286,1.018
+ppauto,"Chain ladder, incurred",70,-0.1076,-0.2984,4.65,0.5286,0.9986
+ppauto,"Bornhuetter-Ferguson, paid",70,2.61,2.58,4.208,0.1571,1.033
+ppauto,"Cape Cod, paid",70,1.858,1.901,3.476,0.2,1.026
+wkcomp,"Chain ladder, paid",47,0.9612,1.293,3.617,0.383,1.016
+wkcomp,"Chain ladder, incurred",47,1.664,2.692,5.936,0.3191,1.029
+wkcomp,"Bornhuetter-Ferguson, paid",47,4.743,4.927,6.81,0.1277,1.071
+wkcomp,"Cape Cod, paid",47,2.329,2.322,4.125,0.1915,1.041

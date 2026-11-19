@@ -1,0 +1,5 @@
+line,triangles,mack_lognormal_50,mack_lognormal_90,bootstrap_50,bootstrap_90,above_mack_995,above_bootstrap_995,actual_above_prediction
+comauto,60,0.250,0.700,0.267,0.750,0.033,0.033,0.400
+othliab,52,0.442,0.788,0.462,0.788,0.000,0.019,0.404
+ppauto,70,0.229,0.600,0.229,0.571,0.014,0.014,0.229
+wkcomp,47,0.191,0.532,0.213,0.574,0.064,0.043,0.383
